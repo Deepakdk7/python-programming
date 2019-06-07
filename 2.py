@@ -1,0 +1,9 @@
+ax=int(input())
+if(ax%2==0):
+    print("Even")
+elif(ax%2!=0):
+    print("Odd")
+elif(ax<0):
+    print("Invalid")
+else:
+    print("Invalid")
