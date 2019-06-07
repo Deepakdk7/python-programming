@@ -3,4 +3,5 @@ bx=input()
 bx=bx.split()
 bx=list(map(int,bx))
 bx.sort()
-print(bx)
+for i in bx:
+    print(i,"",end="")
