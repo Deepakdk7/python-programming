@@ -1,6 +1,5 @@
 ax=int(input())
-b=[]
-for i in range(0,ax):
-    bx=int(input())
-    b.append(bx)
-print(max(b))    
+bx=input()
+bx=bx.split()
+bx=list(map(int,bx))
+print(max(bx))
