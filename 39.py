@@ -1,3 +1,3 @@
-ax=input().split()
-ax=list(map(int,ax))
-print(max(ax))
+ay=input().split()
+aylist(map(int,ay))
+print(max(ay))
