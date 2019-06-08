@@ -1,8 +1,8 @@
 ax= int(input())
-i= 0
+i=1
 f=0
 s=1
-while(i < ax):
+while(i < ax+1):
            if(i<=1):
                       n = i
            else:
