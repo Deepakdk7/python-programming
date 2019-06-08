@@ -1,4 +1,6 @@
 ax=int(input())
+x=0
+a=0
 for i in range(1,ax):
     x=0
     p=2**i
