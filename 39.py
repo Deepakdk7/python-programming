@@ -1,3 +1,3 @@
 ay=input().split()
-aylist(map(int,ay))
+ay=list(map(int,ay))
 print(max(ay))
